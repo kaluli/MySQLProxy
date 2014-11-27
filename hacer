@@ -1,0 +1,16 @@
+ipc? comunicacion entre procesos, con pipes, programa chiquito que lea lo que le mando, tiempo y consulta
+
+1) pipe
+
+2) puertos e ip en log VER!!  		LISTO!!
+
+3) puerto de bd por parametro 		LISTO!!
+
+4) modificar sprintf o printf 	      	LISTO!!
+
+5) Probar que ande en diferentes pcs 	LISTO!!! (ANDA BIEN)
+
+6) Probado en PHPmyadmin		LISTO!!!
+
+lectura en while para bd grandes, probar con bd grandes --> Probado, con problemas en read (el bucle while read > 0) nunca sale
+
